@@ -1,5 +1,5 @@
 # Hamburgueria BDD 
-## Integrantes da Dupla : 
+### Integrantes da Dupla : 
 Jonas Magalhães Miranda - RA 42322378
 
 Este projeto implementa o comportamento de um sistema simples de pedidos de uma hamburgueria utilizando BDD (Behavior Driven Development) com Cucumber, JUnit e Maven.
